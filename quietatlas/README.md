@@ -45,12 +45,6 @@ La aplicación está concentrada en un único `index.html` para facilitar el pri
 - [OpenStreetMap con cartografía base de Esri](https://www.openstreetmap.org/copyright) para los mosaicos del mapa. Respeta la atribución visible en el mapa y sus políticas de uso.
 - HTML, CSS y JavaScript nativos.
 
-## Prepararlo para GitHub
-
-1. Crea un repositorio nuevo llamado `QuietAtlas` en GitHub. **No reutilices el repositorio de tu mod de Persona 5 Royal.**
-2. Sube los archivos de esta carpeta a la raíz del repositorio.
-3. En **Settings → Pages**, elige publicar desde la rama `main` y la carpeta `/(root)` si quieres que sea accesible mediante una URL pública.
-4. Para uso local, basta con abrir `index.html`; GitHub Pages es opcional.
 
 ## Limitaciones conocidas de la primera versión
 
